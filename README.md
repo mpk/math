@@ -4,7 +4,7 @@ Math utilities.
 
 ## Install
 
-	npm install mpk/math
+	npm install mpk/math#bcb9309
 
 ## API
 

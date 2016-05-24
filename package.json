@@ -1,0 +1,23 @@
+{
+	"name": "math",
+	"version": "1.0.1",
+	"description": "Math utilities",
+	"private": true,
+	"main": "source/index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"jasmine-core": "2.3.4",
+		"karma": "0.13.9",
+		"karma-browserify": "4.3.0",
+		"karma-jasmine": "0.3.6"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mpk/math"
+	},
+	"author": "mpk",
+	"license": "MIT",
+	"scripts": {
+		"test": "karma start specs/support/options.js"
+	}
+}

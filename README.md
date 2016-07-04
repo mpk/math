@@ -22,7 +22,7 @@ Map the input value from range [x1, x2] to range [y1, y2].
 
 #### .mapLinearClamp( value, x1, x2, y1, y2 )
 
-Map the input value from range [x1, x2] to range [y1, y2].
+Map the input value from range [x1, x2] to range [y1, y2] and clamp the mapped value between y1 and y2.
 
 #### .modulo( dividend, divisor )
 
